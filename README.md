@@ -175,9 +175,9 @@ Example highlights:
 
 ##  Team Members
 
-Yilin Pu – NoSQL database design
-Zhixin Zhao – Relational database design
-Xinyu Jiang – Web development implementation
+- Yilin Pu – NoSQL database design
+- Zhixin Zhao – Relational database design
+- Xinyu Jiang – Web development implementation
 
 ---
 

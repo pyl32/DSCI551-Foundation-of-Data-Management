@@ -1,0 +1,8 @@
+{
+    "columns": [
+        "review_id",
+        "movie_id",
+        "rating",
+        "reviewer"
+    ]
+}

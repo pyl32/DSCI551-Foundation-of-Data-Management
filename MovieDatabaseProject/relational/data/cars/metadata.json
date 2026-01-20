@@ -1,0 +1,7 @@
+{
+    "columns": [
+        "car_id",
+        "model",
+        "owner_id"
+    ]
+}

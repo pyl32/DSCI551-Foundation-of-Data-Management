@@ -1,0 +1,17 @@
+[
+    {
+        "car_id": "1",
+        "model": "Toyota Camry",
+        "owner_id": "101"
+    },
+    {
+        "car_id": "2",
+        "model": "Honda Civic",
+        "owner_id": "102"
+    },
+    {
+        "car_id": "3",
+        "model": "Ford Focus",
+        "owner_id": "103"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "columns": [
+        "movie_id",
+        "title",
+        "director",
+        "year",
+        "genre"
+    ]
+}
